@@ -1,6 +1,6 @@
 #  Análisis de Casos de Dengue por Región
 
-Este proyecto permite consultar, visualizar y exportar datos de casos de Dengue agrupados por región utilizando **SQL** y **Python**.
+Este proyecto permite consultar, visualizar y exportar datos ficticios de casos de Dengue agrupados por región utilizando **SQL** y **Python**.
 
 ---
 
