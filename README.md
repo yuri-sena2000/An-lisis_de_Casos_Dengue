@@ -14,7 +14,7 @@ Este proyecto permite consultar, visualizar y exportar datos ficticios de casos 
 
 ---
 
-## 🗃 1. Consulta SQL
+##  1. Consulta SQL
 
 Se agrupan los casos de Dengue por región usando una consulta SQL:
 
@@ -49,7 +49,7 @@ plt.show()
 Descripción :
 Se utiliza matplotlibpara graficar los datos en forma de barras. Cada barra representa una región y el total de casos reportados en ella.
 
-💾 3. Exportación de Resultados
+ 3. Exportación de Resultados
 Los datos y el gráfico se guardan para su posterior análisis o presentación:
 
 
@@ -60,7 +60,7 @@ resumen_dengue.csv : archivo con los datos agrupados por región.
 grafico_dengue.png : imagen del gráfico de barras generadas.
 
 
-✨ Créditos
+ Créditos
 Este proyecto fue creado como una práctica de integración entre consultas SQL, análisis con Pandas y visualización con Matplotlib.
 
 
